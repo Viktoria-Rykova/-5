@@ -26,3 +26,9 @@
 5. 8 / 2 - 1
 6. (1 + 2) * 3
 7. 7 + (4 * 2) - 5
+
+Тестовые примеры
+![image](https://github.com/user-attachments/assets/5b0a0abe-46e6-49fb-92c0-0bdfa6b8301a)
+![image](https://github.com/user-attachments/assets/cb691b8e-d047-4d62-b2b9-8f992be082aa)
+
+
